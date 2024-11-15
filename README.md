@@ -35,8 +35,8 @@ Ready to bring your chatbot to life? Let's get started with **Mistral** and crea
 
 ### Clone the Repository
 ```sh
-git clone 
-cd 
+git clone https://github.com/Adii0906/ConvoMate.git
+cd ConvoMate
 
 # Create a Virtual Environment
 python -m venv venv
